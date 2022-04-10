@@ -40,5 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Playground for testing links
 [https://normansywang.github.io/coursera-web-dev/module2-solution](https://normansywang.github.io/coursera-web-dev/module2-solution)
-[module3-solution/](module3-sotion/)
+
+[module3-solution/](module3-solution/)
+
 [./module3-solution/](./module3-solution)
