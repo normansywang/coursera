@@ -39,5 +39,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Playground for testing links
-[A full testing link point to module 2 solution](https://normansywang.github.io/coursera-web-dev/module2-solution)
-[A relative testing link point to module 3 solution](/module3-sotion/)
+[https://normansywang.github.io/coursera-web-dev/module2-solution](https://normansywang.github.io/coursera-web-dev/module2-solution)
+[module3-solution/](module3-sotion/)
+[./module3-solution/](./module3-solution)
